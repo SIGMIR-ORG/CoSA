@@ -1,6 +1,6 @@
 # CoSA project website
 
-Static academic project page for **CoSA: The Conflict of Skills Attack in Real-World LLM Agent Ecosystems**. Includes the approved five-step animation, original paper figures, evaluation tables, manuscript PDF, and verified title/author citation.
+Static academic project page for **CoSA: The Conflict of Skills Attack in Real-World LLM Agent Ecosystems**. Includes the approved five-step animation, original paper figures, evaluation tables, 23-page manuscript PDF, and 2026 preprint citation.
 
 ## Local preview
 
