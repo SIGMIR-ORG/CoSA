@@ -1,9 +1,12 @@
 # Scientific source
 
-The current manuscript is the 23-page `_ICLR_27__CoSA (24).pdf`, included without
-modification as `static/pdfs/paper.pdf`.
+Scientific content follows the final 23-page `_ICLR_27__CoSA (24).pdf`.
+The public paper is hosted on arXiv:
 
-SHA-256: `4a6baac0535f5e0aeaa813cf1665920af77ace523e20ec916421f6775dfb20d0`
+- Abstract and metadata: https://arxiv.org/abs/2610.35082
+- Full text and page-specific links: https://arxiv.org/pdf/2610.35082
+
+Supplied reference manuscript SHA-256: `4a6baac0535f5e0aeaa813cf1665920af77ace523e20ec916421f6775dfb20d0`
 
 - Title, authors, affiliations, contribution notes, abstract: p. 1.
 - Threat model: §3.1, pp. 4–5.
@@ -30,4 +33,5 @@ The visible and downloadable BibTeX entries are copied from the official
 BibTeX export at https://arxiv.org/abs/2610.35082 (verified 2026-10-27).
 They contain all nine authors, year 2026, eprint 2610.35082, archivePrefix
 arXiv, primaryClass cs.CL, and the official abs URL. The HTML head records
-the title, authors, submission date, arXiv ID, and absolute local PDF URL.
+the title, authors, submission date, and arXiv ID. Paper access links use the
+official arXiv abstract and full-text pages.

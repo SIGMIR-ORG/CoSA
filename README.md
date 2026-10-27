@@ -1,6 +1,6 @@
 # CoSA project website
 
-Static academic project page for **CoSA: The Conflict of Skills Attack in Real-World LLM Agent Ecosystems**. Includes the approved five-step animation, original paper figures, evaluation tables, 23-page manuscript PDF, and official arXiv citation.
+Static academic project page for **CoSA: The Conflict of Skills Attack in Real-World LLM Agent Ecosystems**. Includes the approved five-step animation, original paper figures, evaluation tables, and official arXiv links and citation.
 
 ## Local preview
 
@@ -15,7 +15,7 @@ Open http://localhost:8000/. No package installation or build is needed.
 Repository: [SIGMIR-ORG/CoSA](https://github.com/SIGMIR-ORG/CoSA).
 GitHub Pages URL: `https://sigmir-org.github.io/CoSA/`.
 
-In repository **Settings → Pages**, choose **Deploy from a branch**, then select **main** and **/(root)**. Keep `.nojekyll` in the repository root. All asset paths are relative, including the paper, figures, stylesheets, and scripts.
+In repository **Settings → Pages**, choose **Deploy from a branch**, then select **main** and **/(root)**. Keep `.nojekyll` in the repository root. Asset paths for figures, stylesheets, and scripts are relative. Paper links point to arXiv.
 
 ## Maintenance
 
@@ -24,7 +24,8 @@ In repository **Settings → Pages**, choose **Deploy from a branch**, then sele
 - CoSA styling: `static/css/cosa.css`.
 - Animation: `static/css/animation.css` and `static/js/animation.js`.
 - Citation copy: `static/js/main.js`.
-- Paper and original figures: `static/pdfs/` and `static/images/`.
+- Paper: https://arxiv.org/abs/2610.35082.
+- Original figures: `static/images/`.
 
 The animation supports Play/Pause, Replay, individual steps, keyboard navigation, and reduced-motion preferences.
 
