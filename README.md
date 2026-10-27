@@ -1,6 +1,6 @@
 # CoSA project website
 
-Static academic project page for **CoSA: The Conflict of Skills Attack in Real-World LLM Agent Ecosystems**. Includes the approved five-step animation, original paper figures, evaluation tables, 23-page manuscript PDF, and 2026 preprint citation.
+Static academic project page for **CoSA: The Conflict of Skills Attack in Real-World LLM Agent Ecosystems**. Includes the approved five-step animation, original paper figures, evaluation tables, 23-page manuscript PDF, and official arXiv citation.
 
 ## Local preview
 
@@ -26,6 +26,6 @@ In repository **Settings → Pages**, choose **Deploy from a branch**, then sele
 - Citation copy: `static/js/main.js`.
 - Paper and original figures: `static/pdfs/` and `static/images/`.
 
-The animation supports Play/Pause, Replay, individual steps, keyboard navigation, and reduced-motion preferences. Its complete transcript remains readable without JavaScript.
+The animation supports Play/Pause, Replay, individual steps, keyboard navigation, and reduced-motion preferences.
 
 See `SOURCES.md` for scientific provenance and `UPSTREAM.md` for template attribution. The template/design license is retained in `LICENSE`; manuscript text and figures retain their authors’ rights.

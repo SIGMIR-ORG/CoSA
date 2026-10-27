@@ -3,3 +3,6 @@
 @media(max-width:640px){caption::after{content:"Scroll horizontally if needed.";display:block;font-size:10px;font-weight:400;color:#626b64;margin-top:4px}}
 
 @media(max-width:640px){.masthead{flex-wrap:wrap}.masthead nav{flex-wrap:wrap;gap:10px 14px}}
+
+/* Compact, transparent vector heatmap. */
+.figure.fig-medium img{max-width:680px;background:transparent;border:0;padding:0}
